@@ -7,6 +7,8 @@ Hello, I'm Randi, and I'm an aspiring Software Developer with a passion for crea
 
 ### Programming Languages I Know
 
+<img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/intellij-idea.svg" height="auto" width="40">
+
 ### Tools I Use
 
 ### 🌱 I’m Currently Learning...
