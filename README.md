@@ -7,15 +7,25 @@ Hello, I'm Randi, and I'm an aspiring Software Developer with a passion for crea
 
 ### Programming Languages I Know
 
-<img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/intellij-idea.svg" height="auto" width="40">
+<p align="left">
+<img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/java.svg" height="auto" width="60">
+
+<img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/html-5.svg" height="auto" width="60">
+</p>
 
 ### Tools I Use
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/intellij-idea.svg" height="auto" width="60">
+
+<img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/visual-studio.svg" height="auto" width="60">
+</p>
 
 ### 🌱 I’m Currently Learning...
 
 ### 📫 How to Reach Me
 
-<a href="<https://www.linkedin.com/in/randi-lovelett/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/randi-lovelett/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <!---
