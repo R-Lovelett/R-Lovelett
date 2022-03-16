@@ -10,15 +10,15 @@ Hello, I'm Randi, and I'm an aspiring Software Developer with a passion for crea
 <p align="left">
   <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/java.svg" height="auto" width="60" title="Java" alt="Java">
 
-  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/html-5.svg" height="auto" width="60" title="HTML 5" alt="HTML 5">
+  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/html5.svg" height="auto" width="65" title="HTML 5" alt="HTML 5">
   
   <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/CSS3.svg" height="auto" width="45" title="CSS 3" alt="CSS 3">
   
+  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/js.svg" height="auto" width="45" title="Javascript" alt="Javascript">
+  
   <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/Csharp.svg" height="auto" width="60" title="C#" alt="C#">
   
-  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/javascript.svg" height="auto" width="60" title="Javascript" alt="Javascript">
-  
-  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/jquery.svg" height="auto" width="60" title="JQuery" alt="JQuery">
+  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/python.svg" height="auto" width="60" title="Python" alt="Python">
   
   <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/SQL.svg" height="auto" width="60" title="SQL" alt="SQL">
 </p>
@@ -26,6 +26,8 @@ Hello, I'm Randi, and I'm an aspiring Software Developer with a passion for crea
 ## Tools I Use
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/vscode.svg" height="auto" width="50" title="MS Visual Studio Code" alt="Visual Studio Code">
+  
   <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/intellij-idea.svg" height="auto" width="60" title="IntelliJ Idea" alt="IntelliJ Idea">
 
   <img src="https://raw.githubusercontent.com/R-Lovelett/R-Lovelett/master/assets/visual-studio.svg" height="auto" width="60" title="MS Visual Studio" alt="MS Visual Studio">
@@ -41,9 +43,10 @@ Hello, I'm Randi, and I'm an aspiring Software Developer with a passion for crea
 
 ## 🌱 I’m Currently Learning...
 
-- Refreshing my memory with Java
+- Refreshing my memory with Javascript
 - How to host websites 💻
-- How to develop inside of IntelliJ
+- How to code using Python
+- How to use React.js in web development
 
 ## How to Reach Me 📫
 
