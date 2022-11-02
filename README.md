@@ -48,10 +48,10 @@ Hello, I'm Randi, and I'm an aspiring Software Developer with a passion for crea
 ## 📈 My Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=R-Lovelett&show_icons=true&theme=tokyonight" height="200em" width="auto"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=R-Lovelett&show_icons=true&theme=tokyonight" height="180em"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Lovelett&theme=tokyonight&layout=compact" height="200em" width="auto"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Lovelett&theme=tokyonight&layout=compact" height="180em"/>
 </a>
 
 ## 🌱 I’m Currently Learning...
